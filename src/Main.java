@@ -7,5 +7,9 @@ public class Main {
         int sum=a+b;
         System.out.println(sum);
 
+        int age;
+        int year;
+
+
         }
     }
