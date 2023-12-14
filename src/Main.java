@@ -11,7 +11,7 @@ public class Main {
         int year;
 
         int name;
-
+        String merve;
 
         }
     }
