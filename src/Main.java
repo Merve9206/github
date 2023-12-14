@@ -10,6 +10,8 @@ public class Main {
         int age;
         int year;
 
+        int name;
+
 
         }
     }
